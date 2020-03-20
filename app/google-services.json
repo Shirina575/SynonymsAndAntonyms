@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "763906159016",
+    "firebase_url": "https://dictionary-e7f25.firebaseio.com",
+    "project_id": "dictionary-e7f25",
+    "storage_bucket": "dictionary-e7f25.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:763906159016:android:1025402459c07a603f6d9d",
+        "android_client_info": {
+          "package_name": "com.github.shirina575.synonymsandantonyms"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "763906159016-9p87a1vq9hjlu2khigmiis8fdk7c5b8u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.github.shirina575.synonymsandantonyms",
+            "certificate_hash": "6463430b2b23dee41cc78fb2a4a30b9636d1449c"
+          }
+        },
+        {
+          "client_id": "763906159016-ad2dqhd2pcehgurl46lkrf5i971qcdbe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzAaQBR57j6Jqqp5K3uBCGLg58p-ALEZo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "763906159016-ad2dqhd2pcehgurl46lkrf5i971qcdbe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

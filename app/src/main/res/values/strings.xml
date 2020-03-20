@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Synonyms And Antonyms</string>
+    <string name="banner_ad_unit_id">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="app_id">ca-app-pub-7591911597862226~8266733912</string>
+    <string name="title_activity_meaning">MeaningActivity</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
